@@ -1,0 +1,217 @@
+{
+  "login": "hhegi",
+  "repos": {
+    "hhegi/Campus_App_Tour": {
+      "exp": 500,
+      "caught": true,
+      "species": 506,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 506
+    },
+    "hhegi/cinamon": {
+      "exp": 1000,
+      "caught": true,
+      "species": 349,
+      "stars": 0,
+      "commits": 4,
+      "merges": 0,
+      "alive": true,
+      "level": 8,
+      "mon": 349
+    },
+    "hhegi/code-test": {
+      "exp": 2250,
+      "caught": true,
+      "species": 343,
+      "stars": 0,
+      "commits": 9,
+      "merges": 0,
+      "alive": true,
+      "level": 13,
+      "mon": 343
+    },
+    "Jaryt/FlappyBirdTutorial": {
+      "exp": 0,
+      "caught": false,
+      "species": 263,
+      "stars": 42,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 263
+    },
+    "hhegi/HTML_CSS_EX": {
+      "exp": 9500,
+      "caught": true,
+      "species": 509,
+      "stars": 0,
+      "commits": 38,
+      "merges": 0,
+      "alive": true,
+      "level": 21,
+      "mon": 510
+    },
+    "hhegi/openCV_termproject": {
+      "exp": 750,
+      "caught": true,
+      "species": 833,
+      "stars": 0,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 833
+    },
+    "hhegi/order-management": {
+      "exp": 1000,
+      "caught": true,
+      "species": 167,
+      "stars": 0,
+      "commits": 4,
+      "merges": 0,
+      "alive": true,
+      "level": 10,
+      "mon": 167
+    },
+    "Quick-Pang/Q-Pang": {
+      "exp": 63000,
+      "caught": true,
+      "species": 928,
+      "stars": 0,
+      "commits": 55,
+      "merges": 10,
+      "alive": true,
+      "level": 41,
+      "mon": 930
+    },
+    "hhegi/shopping": {
+      "exp": 2000,
+      "caught": true,
+      "species": 436,
+      "stars": 0,
+      "commits": 8,
+      "merges": 0,
+      "alive": true,
+      "level": 12,
+      "mon": 436
+    },
+    "hhegi/Warrior": {
+      "exp": 1750,
+      "caught": true,
+      "species": 363,
+      "stars": 0,
+      "commits": 7,
+      "merges": 0,
+      "alive": true,
+      "level": 14,
+      "mon": 363
+    },
+    "Pagely-wisely/meeting-service": {
+      "exp": 61200,
+      "caught": true,
+      "species": 605,
+      "stars": 0,
+      "commits": 22,
+      "merges": 16,
+      "alive": true,
+      "level": 39,
+      "mon": 605
+    },
+    "two-fast-delivery/server": {
+      "exp": 35400,
+      "caught": true,
+      "species": 664,
+      "stars": 0,
+      "commits": 34,
+      "merges": 5,
+      "alive": true,
+      "level": 32,
+      "mon": 666
+    }
+  },
+  "dex": {
+    "167": {
+      "seen": true,
+      "caught": true
+    },
+    "263": {
+      "seen": true,
+      "caught": false
+    },
+    "343": {
+      "seen": true,
+      "caught": true
+    },
+    "349": {
+      "seen": true,
+      "caught": true
+    },
+    "363": {
+      "seen": true,
+      "caught": true
+    },
+    "436": {
+      "seen": true,
+      "caught": true
+    },
+    "506": {
+      "seen": true,
+      "caught": true
+    },
+    "509": {
+      "seen": true,
+      "caught": true
+    },
+    "510": {
+      "seen": true,
+      "caught": true
+    },
+    "605": {
+      "seen": true,
+      "caught": true
+    },
+    "664": {
+      "seen": true,
+      "caught": true
+    },
+    "665": {
+      "seen": true,
+      "caught": true
+    },
+    "666": {
+      "seen": true,
+      "caught": true
+    },
+    "833": {
+      "seen": true,
+      "caught": true
+    },
+    "928": {
+      "seen": true,
+      "caught": true
+    },
+    "929": {
+      "seen": true,
+      "caught": true
+    },
+    "930": {
+      "seen": true,
+      "caught": true
+    }
+  },
+  "trainer": {
+    "grassExp": 7300
+  },
+  "updatedAt": "2026-09-23",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
+}
