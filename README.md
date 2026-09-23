@@ -11,7 +11,7 @@
 </div>
 
 <details>
-<summary><picture><img src="cards/_more.svg" alt="나머지 포켓몬 5마리 더 보기" width="96%" align="middle"></picture></summary>
+<summary><picture><img src="cards/_more.svg" alt="나머지 포켓몬 6마리 더 보기" width="96%" align="middle"></picture></summary>
 <br>
 <div align="center">
 
@@ -20,6 +20,7 @@
 <a href="https://github.com/hhegi/openCV_termproject" title="깨물부기 · hhegi/openCV_termproject · 커밋 3회 · 병합 PR 0개"><img src="cards/hhegi__openCV_termproject.svg" alt="깨물부기 Lv.9" width="32%"></a>
 <a href="https://github.com/hhegi/Campus_App_Tour" title="요테리 · hhegi/Campus_App_Tour · 커밋 2회 · 병합 PR 0개"><img src="cards/hhegi__Campus_App_Tour.svg" alt="요테리 Lv.9" width="32%"></a>
 <a href="https://github.com/hhegi/cinamon" title="빈티나 · hhegi/cinamon · 커밋 4회 · 병합 PR 0개"><img src="cards/hhegi__cinamon.svg" alt="빈티나 Lv.8" width="32%"></a>
+<a href="https://github.com/hhegi/hhegi" title="메롱꿍 · hhegi/hhegi · 커밋 1회 · 병합 PR 0개"><img src="cards/hhegi__hhegi.svg" alt="메롱꿍 Lv.6" width="32%"></a>
 
 </div>
 </details>
