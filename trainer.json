@@ -132,6 +132,17 @@
       "alive": true,
       "level": 32,
       "mon": 666
+    },
+    "hhegi/hhegi": {
+      "exp": 250,
+      "caught": true,
+      "species": 859,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 859
     }
   },
   "dex": {
@@ -191,6 +202,10 @@
       "seen": true,
       "caught": true
     },
+    "859": {
+      "seen": true,
+      "caught": true
+    },
     "928": {
       "seen": true,
       "caught": true
@@ -205,7 +220,7 @@
     }
   },
   "trainer": {
-    "grassExp": 7300
+    "grassExp": 7400
   },
   "updatedAt": "2026-09-23",
   "exp": {
