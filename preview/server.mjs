@@ -119,8 +119,9 @@ function page(readme) {
   <main>
     <article class="readme">${readme}</article>
     <p class="note">
-      이 화면은 <a href="https://github.com/hhegi">hhegi</a> 프로필 README입니다.
-      카드는 <a href="https://github.com/wantaekchoi/pokerepo">PokeRepo</a> 액션이 그리고, 포켓몬 이미지는 저장소에 넣지 않고 PokéAPI 주소를 연결합니다.
+      이 화면은 <a href="https://github.com/hhegi">hhegi</a> 프로필에 올라갈 README 미리보기입니다.
+      GitHub에 공개 저장소 이름을 <b>hhegi</b>로 만들고 이 저장소 내용을 올리면 프로필 Overview에 같은 카드가 보입니다.
+      Actions의 pokerepo 워크플로가 매일 카드를 다시 그립니다.
     </p>
   </main>
 </body>
